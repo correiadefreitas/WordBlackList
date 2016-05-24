@@ -54,8 +54,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PortableBusinessLayer\BusinessLayer.csproj">
-      <Project>{b0600ec3-4327-4acf-b5ed-81a95a185341}</Project>
+    <ProjectReference Include="..\BusinessLayer1\BusinessLayer.csproj">
+      <Project>{07e5dcf2-2fda-412d-be0d-7b525cd6a24b}</Project>
       <Name>BusinessLayer</Name>
     </ProjectReference>
   </ItemGroup>
