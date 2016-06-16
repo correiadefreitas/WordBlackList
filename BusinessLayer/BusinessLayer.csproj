@@ -7,8 +7,8 @@
     <ProjectGuid>{07E5DCF2-2FDA-412D-BE0D-7B525CD6A24B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BusinessLayer</RootNamespace>
-    <AssemblyName>BusinessLayer</AssemblyName>
+    <RootNamespace>WordBlackList</RootNamespace>
+    <AssemblyName>WordBlackList</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

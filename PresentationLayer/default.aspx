@@ -9,8 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:TextBox ID="txt" runat="server"></asp:TextBox>
-        <asp:Button ID="btn" runat="server" OnClick="btn_Click" />
+        <div><asp:TextBox ID="txt" runat="server" TextMode="MultiLine" Columns="40" Rows="4"></asp:TextBox></div>
+        <div><asp:Button ID="btn" runat="server" OnClick="btn_Click" Text="Filter" /></div>
         <hr />
         <asp:Literal ID="lt" runat="server"></asp:Literal>
     </div>

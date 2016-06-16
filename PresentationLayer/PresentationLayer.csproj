@@ -89,7 +89,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLayer1\BusinessLayer.csproj">
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
       <Project>{07e5dcf2-2fda-412d-be0d-7b525cd6a24b}</Project>
       <Name>BusinessLayer</Name>
     </ProjectReference>

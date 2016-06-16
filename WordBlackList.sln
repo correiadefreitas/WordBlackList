@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTDBusinessLayer", "TTDWorkBlackList\TTDBusinessLayer.csproj", "{E23B84E1-3999-4594-934B-66DCA03E4C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer1\BusinessLayer.csproj", "{07E5DCF2-2FDA-412D-BE0D-7B525CD6A24B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{07E5DCF2-2FDA-412D-BE0D-7B525CD6A24B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{5BFA1B3C-28DB-4137-A204-F4B793FA8672}"
 EndProject

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace QandA
+namespace WBL
 {
     public class WordBlackList
     {
